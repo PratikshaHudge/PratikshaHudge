@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PratikshaHudge](https://github.com/PratikshaHudge)
 
-- 💬 Ask me about **Java, SQL, DSA, React, MERN Stack**
+- 💬 Ask me about **Java, SQL, DSA,React,JavaScript**
 
 - 📫 How to reach me **hudgepratiksha194@gmail.com**
 
