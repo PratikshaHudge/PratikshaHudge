@@ -37,8 +37,8 @@ Software Engineer at Prescient Technologies | Java & C# Developer
 
 <br>
 
-<li>🏅 LeetCode Achievements<br>
-<b>50 Days Badge 2026 • SQL Badge</b></li>
+<li>🏅 Achievements<br>
+<b>LeetCode 50 Days Badge 2026 • LeetCode SQL Badge</b></li>
 
 <br>
 
@@ -107,16 +107,3 @@ I debug faster at 2 AM than at 2 PM 😄</li>
 
 </tr>
 </table>
-
-<h3>🏅 Achievements</h3>
-
-<ul>
-<li>🏆 LeetCode 50 Days Badge 2026</li>
-<li>🏆 LeetCode SQL Badge</li>
-</ul>
-
-<br>
-
-<h3 align="center">
-🚀 Always Learning, Building, and Growing
-</h3>
