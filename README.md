@@ -1,16 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pratiksha</h1>
 
 <h3 align="center">
-Software Engineer at Prescient Technologies | Java • C# • .NET • Spring Boot • DSA • LeetCode • Backend Development
+Software Engineer at Prescient Technologies | Java & C# Developer
 </h3>
-
-<p align="center">
-Passionate about building scalable applications, solving coding problems, and continuously learning new technologies.
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=PratikshaHudge&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
 
 <table>
 <tr>
@@ -31,7 +23,7 @@ Passionate about building scalable applications, solving coding problems, and co
 <br>
 
 <li>💬 Ask me about<br>
-<b>Java, C#, .NET, Spring Boot, SQL, PostgreSQL, DSA, React, JavaScript</b></li>
+<b>Java, C#, .NET, SQL, PostgreSQL, DSA, React, JavaScript</b></li>
 
 <br>
 
@@ -47,11 +39,6 @@ Passionate about building scalable applications, solving coding problems, and co
 
 <li>🏅 LeetCode Achievements<br>
 <b>50 Days Badge 2026 • SQL Badge</b></li>
-
-<br>
-
-<li>🎯 Current Focus<br>
-Building scalable backend applications using Java, Spring Boot, C#, and .NET</li>
 
 <br>
 
@@ -94,6 +81,7 @@ I debug faster at 2 AM than at 2 PM 😄</li>
 <h3>🛠 Languages & Tools</h3>
 
 <p>
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
@@ -117,6 +105,7 @@ I debug faster at 2 AM than at 2 PM 😄</li>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+
 </p>
 
 </td>
@@ -124,26 +113,16 @@ I debug faster at 2 AM than at 2 PM 😄</li>
 </tr>
 </table>
 
-<h3>📈 GitHub Stats</h3>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PratikshaHudge&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PratikshaHudge&theme=tokyonight" />
-</p>
-
 <h3>🚀 Featured Projects</h3>
 
 <ul>
-<li><b>RippleAI</b> - AI-Powered Social Welfare Platform for NGOs using Spring Boot, React, Kafka, Redis, and Python.</li>
+<li><b>RippleAI</b> - AI-Powered Social Welfare Platform for NGOs.</li>
 
-<li><b>Striver A2Z DSA Sheet</b> - Comprehensive Java solutions covering essential Data Structures and Algorithms concepts.</li>
+<li><b>Striver A2Z DSA Sheet</b> - Java solutions for Data Structures and Algorithms.</li>
 
-<li><b>Top 20 String LeetCode Problems</b> - Interview-focused Java solutions with optimized approaches and complexity analysis.</li>
+<li><b>Top 20 String LeetCode Problems</b> - Interview-focused Java solutions.</li>
 
-<li><b>MERN Stack Applications</b> - Full-stack web development projects using MongoDB, Express.js, React, and Node.js.</li>
+<li><b>MERN Stack Applications</b> - Full-stack web development projects.</li>
 </ul>
 
 <h3>🏆 Coding Profiles</h3>
@@ -159,9 +138,10 @@ I debug faster at 2 AM than at 2 PM 😄</li>
 <ul>
 <li>🏆 LeetCode 50 Days Badge 2026</li>
 <li>🏆 LeetCode SQL Badge</li>
-<li>💡 Consistent DSA and Problem Solving Practice</li>
 </ul>
 
+</br>
+
 <h3 align="center">
-🚀 Passionate about Backend Development, Problem Solving, and Building Scalable Applications
+🚀 Always Learning, Building, and Growing
 </h3>
