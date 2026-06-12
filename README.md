@@ -25,6 +25,7 @@ Software Engineer at Prescient Technologies | Java & C# Developer
 <li>💬 Ask me about<br>
 <b>Java, C#, .NET, SQL, PostgreSQL, DSA, React, JavaScript</b></li>
 
+
 <li>📚 Practicing<br>
 <b>LeetCode & Data Structures and Algorithms</b></li>
 
