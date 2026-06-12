@@ -42,11 +42,6 @@ Software Engineer at Prescient Technologies | Java & C# Developer
 
 <br>
 
-<li>📫 Reach me at<br>
-<b>hudgepratiksha194@gmail.com</b></li>
-
-<br>
-
 <li>⚡ Fun Fact<br>
 I debug faster at 2 AM than at 2 PM 😄</li>
 
@@ -113,26 +108,6 @@ I debug faster at 2 AM than at 2 PM 😄</li>
 </tr>
 </table>
 
-<h3>🚀 Featured Projects</h3>
-
-<ul>
-<li><b>RippleAI</b> - AI-Powered Social Welfare Platform for NGOs.</li>
-
-<li><b>Striver A2Z DSA Sheet</b> - Java solutions for Data Structures and Algorithms.</li>
-
-<li><b>Top 20 String LeetCode Problems</b> - Interview-focused Java solutions.</li>
-
-<li><b>MERN Stack Applications</b> - Full-stack web development projects.</li>
-</ul>
-
-<h3>🏆 Coding Profiles</h3>
-
-<ul>
-<li>LeetCode</li>
-<li>HackerRank</li>
-<li>GeeksforGeeks</li>
-</ul>
-
 <h3>🏅 Achievements</h3>
 
 <ul>
@@ -140,7 +115,7 @@ I debug faster at 2 AM than at 2 PM 😄</li>
 <li>🏆 LeetCode SQL Badge</li>
 </ul>
 
-</br>
+<br>
 
 <h3 align="center">
 🚀 Always Learning, Building, and Growing
